@@ -5,10 +5,11 @@ Car Dekho MySQL project is aimed at providing a robust database solution for man
 # Database Schema
 The database schema consists of the following tables:
 
-cars: Contains information about cars available in the inventory.
+cars: Contains information about cars available in the fuel of diesel and petrol.
 customers: Stores details of customers interested in purchasing cars.
 sales: Records sales transactions including the car sold, customer details, and transaction date.
-inventory: Tracks the inventory status of cars including quantity available and location.
+Manager: Make a list of which year of sales of diesel cars top high sales, and make a list of between years how 
+many cars we sold.
 # Setting Up
 To set up the Car Dekho MySQL project:
 
